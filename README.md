@@ -1,5 +1,5 @@
 [
-    ![alt text](Goku.png "Meus contatos.")
+    ![alt text](QAkarotto.png "Meus contatos.")
     ](https://about.me/QAkarotto)
 
 # Apresentações
