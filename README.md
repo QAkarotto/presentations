@@ -1,5 +1,5 @@
 [
-    ![alt text](https://i.imgur.com/VvAhoO2.png "Meus contatos.")
+    ![alt text](https://i.imgur.com/bd2aF5P.png "Meus contatos.")
     ](https://about.me/QAkarotto)
 
 # Apresentações
